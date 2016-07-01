@@ -1,0 +1,17 @@
+{
+  "name": "empty",
+  "authors": [
+    "Adam Stankiewicz <sheerun@sher.pl>"
+  ],
+  "description": "Empty package, just for testing",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
